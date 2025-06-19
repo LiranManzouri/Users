@@ -1,0 +1,15 @@
+.user-list {
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-inline-start: 0;
+}
+
+li {
+    padding: 10px 0;
+    text-align: center;
+}
